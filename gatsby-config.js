@@ -16,3 +16,5 @@ module.exports = {
     `gatsby-plugin-react-helmet`
   ],
 }
+
+plugins: [`gatsby-plugin-netlify-cms`];
